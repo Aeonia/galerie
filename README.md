@@ -1,2 +1,4 @@
 # galerie
-Galerie d'images avec gestion par catégories et tags
+Gallery made with the framawork PHP Laravel 
+
+features to come : tags, online database
